@@ -2,4 +2,9 @@ This is file1.txt
 This is now line 2 added in this file
 Line3 added 
 Line4 added
+<<<<<<< HEAD
 ******* Like Added on master ********
+=======
+This line added as new feature of himbranch1
+This line added via github console
+>>>>>>> c005f1203226019dc6f36489b8882603b6e54aa1
