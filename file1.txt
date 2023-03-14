@@ -4,9 +4,16 @@ Line3 added
 Line4 added
 <<<<<<< HEAD
 ******* Like Added on master ********
+<<<<<<< HEAD
 This line added as new feature of himbranch1
 
 =======
 This line added as new feature of himbranch1
 This line added via github console
 >>>>>>> 801313a (changes added via github console himmy's commit changes commnt)
+=======
+=======
+This line added as new feature of himbranch1
+This line added via github console
+>>>>>>> c005f1203226019dc6f36489b8882603b6e54aa1
+>>>>>>> 6d8b5c0a109890efd0e95631f5ef3dae18ebb2b0
