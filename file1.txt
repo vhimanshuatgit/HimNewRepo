@@ -2,6 +2,11 @@ This is file1.txt
 This is now line 2 added in this file
 Line3 added 
 Line4 added
+<<<<<<< HEAD
 ******* Like Added on master ********
 This line added as new feature of himbranch1
 
+=======
+This line added as new feature of himbranch1
+This line added via github console
+>>>>>>> 801313a (changes added via github console himmy's commit changes commnt)
